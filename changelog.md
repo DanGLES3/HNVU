@@ -1,4 +1,5 @@
 ### Changelog
--Full AAPT rewrite
+-Fixed miscelaneous error messages
 
--Added terminal config tool for changing each navbar parameter (To use it run the following on a terminal app su -c hn)
+-Fixed Terminal config tool on Android 13 (Google's fault this time lol)
+Tablet support (it works inconsisntently)
