@@ -1,6 +1,4 @@
 ### Changelog
--Fixed miscelaneous error messages
+-Added MIUI support (confirmed working on MIUI 13)
 
--Fixed Terminal config tool on Android 13 (Google's fault this time lol)
-
--Tablet support (it works inconsisntently)
+-Fixed Terminal Script not working on devices with pseudo/fake xbin foldersy)
